@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: nester
+Version: 1.0.0
+Summary: A simple Python module for nesting lists
+Home-page: https://github.com/geekftz/nester
+Author: geekftz
+Author-email: 472849306@qq.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
